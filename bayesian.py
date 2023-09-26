@@ -64,7 +64,7 @@ def main():
           2. Test Accuracy: {score_test} \n
           3. Test Recal: {recall_test} \n
           4. Test Precision: {precision} \n
-          """)
+          """) 
 
 
 if __name__ == "__main__":
